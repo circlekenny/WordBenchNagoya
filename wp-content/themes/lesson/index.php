@@ -17,7 +17,7 @@
 <!-- [ #headerTop ] -->
 <div id="headerTop">
 <div class="innerBox">
-<div id="site-description">ここにはホームページの簡単な説明が入ります。あいうえお</div>
+<div id="site-description">ここにはホームページの簡単な説明が入ります。あいうえおかきくけこ</div>
 </div>
 </div><!-- [ /#headerTop ] -->
 
